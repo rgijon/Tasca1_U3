@@ -1,0 +1,6 @@
+#para que ignore todo utilizamos:
+*
+
+#para introducir una excepción:
+!.gitignore
+!/src/
